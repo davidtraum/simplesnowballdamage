@@ -1,0 +1,9 @@
+name: SimpleSnowballDamage
+version: 1.0
+author: David Traum
+main: com.traumsoft.simplesnowballdamage.Main
+commands:
+  sbd:
+    description: Settings for snowball damage.
+    usage: /sbd
+    permission: sbd.admin
